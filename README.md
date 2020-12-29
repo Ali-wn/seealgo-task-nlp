@@ -1,5 +1,5 @@
 # Zero shot Classifier with Flask implementation.
-Zero shot Classifier with Flask implementation. Provided Ipython notebook has both Server and Client Side implemenentation.
+Zero shot Classifier with Flask implementation. Provided Ipython notebook has both Server and Client Side implementation.
 
  [Flask with Zero shot Classifier Client/Server Notebook.](https://github.com/Ali-wn/seealgo-task-nlp/blob/main/Flask_with_Zero_Shot_Classifier.ipynb)
  
